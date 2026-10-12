@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "new-object": "Nuevo objeto histórico",
+    "navigation": "Navegación",
+    "open": "Abrir navegación",
+    "logo": "Logo de American Numismatic Association",
+    "tagline": "ANA ayuda a las personas a descubrir y explorar el mundo del dinero mediante sus programas educativos, museo, biblioteca, convenciones, seminarios, publicaciones y actividades de difusión."
+  },
+  "home": {
+    "title": "Inicio",
+    "subtitle": "Museo Edward.",
+    "collections": "Colecciones",
+    "historical-collections": "Colecciones históricas",
+    "empty": "No hay objetos históricos",
+    "total-price": "Precio total",
+    "collection-size": "Tamaño de la colección",
+    "available-size": "Espacios disponibles"
+  },
+  "form": {
+    "title": "Nuevo objeto histórico",
+    "subtitle": "Añade objetos históricos a tu colección.",
+    "collection": "Colección",
+    "coin": "Moneda",
+    "summary": "Resumen (opcional)",
+    "legends": "Leyendas (opcional)",
+    "create": "Crear",
+    "cancel": "Cancelar"
+  },
+  "common": {
+    "loading": "Cargando",
+    "retry": "Reintentar"
+  },
+  "errors": {
+    "load": "No se pudo cargar la API local.",
+    "coins": "No se pudo cargar el catálogo oficial de monedas.",
+    "required": "Selecciona una colección y una moneda válidas.",
+    "coin-type": "La moneda no pertenece al tipo de esta colección.",
+    "full": "La colección está llena.",
+    "coin-data": "Los datos de la moneda no son válidos.",
+    "busy": "Se está guardando un registro.",
+    "save": "No se pudo guardar. Reintenta."
+  },
+  "not-found": {
+    "title": "Página no encontrada",
+    "message": "No se encontró la ruta {path}.",
+    "back": "Volver al inicio"
+  }
+}

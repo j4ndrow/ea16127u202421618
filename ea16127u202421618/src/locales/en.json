@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "home": "Home",
+    "new-object": "New Historical Object Item",
+    "navigation": "Navigation",
+    "open": "Open navigation",
+    "logo": "American Numismatic Association logo",
+    "tagline": "The ANA helps people discover and explore the world of money through its vast array of educational programs including its museum, library, conventions, seminars, publications and outreach programs."
+  },
+  "home": {
+    "title": "Home",
+    "subtitle": "Museum Edward C Rochette.",
+    "collections": "Collections",
+    "historical-collections": "Historical Collections",
+    "empty": "No Historical Object",
+    "total-price": "Total Price",
+    "collection-size": "Collection Size",
+    "available-size": "Available Size"
+  },
+  "form": {
+    "title": "New Historical Object Item",
+    "subtitle": "Add Historical Object Items to Your Collection.",
+    "collection": "Collection",
+    "coin": "Coin",
+    "summary": "Summary (optional)",
+    "legends": "Legends (optional)",
+    "create": "Create",
+    "cancel": "Cancel"
+  },
+  "common": {
+    "loading": "Loading...",
+    "retry": "Retry"
+  },
+  "errors": {
+    "load": "Could not load the local API.",
+    "coins": "Could not load the official coin catalog.",
+    "required": "Select a valid collection and coin.",
+    "coin-type": "The coin does not belong to this collection type.",
+    "full": "The collection is full.",
+    "coin-data": "The coin data is invalid.",
+    "busy": "A record is being saved.",
+    "save": "Could not save the record. Try again."
+  },
+  "not-found": {
+    "title": "Page not found",
+    "message": "The route {path} was not found.",
+    "back": "Back to Home"
+  }
+}
