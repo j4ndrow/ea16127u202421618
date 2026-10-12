@@ -1,3 +1,5 @@
+import { ref } from 'vue';
+import { defineStore } from 'pinia';
 import { CoinsApi } from '../infrastructure/coins-api.js';
 import { CoinAssembler } from '../infrastructure/coin.assembler.js';
 import { CollectionTypeAssembler } from '../infrastructure/collection-type.assembler.js';
